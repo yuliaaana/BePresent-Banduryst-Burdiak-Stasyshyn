@@ -20,8 +20,8 @@ We want to make your gift exchanging process as simple and joyful as possible so
 
 
 ## Features
-* **Create Wishlists: Create and manage lists of desired gifts.
-* **Attach Wishlist Items: Add your gift ideas to your own wishlists.
-* **Reserve Gifts: Reserve gifts on other users' wishlists to avoid duplicates.
-* **Gift Management: Update the status of gifts to track wishlist fulfillment.
+- ** Create Wishlists: Create and manage lists of desired gifts.
+- ** Attach Wishlist Items: Add your gift ideas to your own wishlists.
+- ** Reserve Gifts: Reserve gifts on other users' wishlists to avoid duplicates.
+- ** Gift Management: Update the status of gifts to track wishlist fulfillment.
 
