@@ -1,5 +1,5 @@
 # "BePresent" Banduryst Burdiak Stasyshyn
-#### The Gift Wishlist App is a desktop application that allows users to create wishlists, attach their gift ideas, and reserve gifts they want to give from other people's wishlists. With an easy-to-use interface and functionality, this app helps you organize and manage your gift ideas effectively.
+#### BePresent is a desktop application that allows users to create wishlists, attach their gift ideas, and reserve gifts they want to give from other people's wishlists. With an easy-to-use interface and functionality, this app helps you organize and manage your gift ideas effectively.
 We want to make your gift exchanging process as simple and joyful as possible so you will never worry about what can you give to someone who has everything
 
 ## Problem
